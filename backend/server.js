@@ -9,7 +9,7 @@ const productRoutes = require('./routes/products');
 const app = express();
 
 // Middleware
-app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
+app.use(cors({ origin: 'https://shophub-pjg5.vercel.app/', credentials: true }));
 app.use(express.json());
 
 // Routes

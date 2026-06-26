@@ -10,11 +10,11 @@ The application allows users to register, log in securely using JWT authenticati
 
 ### Frontend
 
-https://your-frontend.vercel.app
+https://shophub-pjg5.vercel.app/
 
 ### Backend API
 
-https://your-backend.onrender.com
+https://shophub-assignment.onrender.com/
 
 ---
 
